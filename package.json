@@ -1,0 +1,15 @@
+{
+  "name": "files-combiner",
+  "version": "1.0.0",
+  "description": "Combine multile files into a single stream.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amio <jinxiaowei@baixing.com>",
+  "license": "ISC",
+  "dependencies": {
+    "combined-stream2": "^1.1.1"
+  }
+}
