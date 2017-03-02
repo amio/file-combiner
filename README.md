@@ -1,5 +1,7 @@
 # files-combiner
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/files-combiner.svg)](https://greenkeeper.io/)
+
 Combine multile files into a single stream, one by one.
 
 ### Usage
